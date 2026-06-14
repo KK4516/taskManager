@@ -1,5 +1,5 @@
 /* TaskManager Web - Service Worker（オフライン起動用） */
-const CACHE = 'taskmgr-v1';   // ← index.html を更新したら v2, v3… に上げる
+const CACHE = 'taskmgr-v2';   // ← index.html を更新したら v2, v3… に上げる
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png'
